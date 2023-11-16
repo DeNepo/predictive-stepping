@@ -1,0 +1,14 @@
+{
+  "study": {
+    "save": true,
+    "run": true,
+    "debug": true,
+    "ask": true,
+    "flowchart": true,
+    "variables": true,
+    "blanks": true,
+    "trace": true,
+    "table": true,
+    "pseudo": true
+  }
+}
